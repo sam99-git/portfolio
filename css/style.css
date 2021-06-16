@@ -140,11 +140,11 @@ h3{font-size: var(--fs-h3)}
 }
 
 .skills{
-    background-image: url(/12.jpg);
-    background-size: cover;
+   
     color: var(--clr-light);
     text-align: center;
     padding: 5rem;
+    background: #303030;
 }
 .skillimg{
     padding: 5px;
